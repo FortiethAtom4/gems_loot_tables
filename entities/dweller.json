@@ -57,7 +57,7 @@
                   }
                 ],
                 "minecraft:consumable": {
-                  "consume_seconds": 0.25,
+                  "consume_seconds": 0,
                   "animation": "crossbow",
                   "sound": "block.sweet_berry_bush.break",
                   "has_consume_particles": true,
