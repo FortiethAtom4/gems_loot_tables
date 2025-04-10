@@ -74,7 +74,7 @@
                         {
                           "id": "minecraft:speed",
                           "amplifier": 1,
-                          "duration": 100,
+                          "duration": 200,
                           "show_particles": false,
                           "show_icon": true,
                           "ambient": false
@@ -82,7 +82,7 @@
                         {
                           "id": "minecraft:invisibility",
                           "amplifier": 1,
-                          "duration": 100,
+                          "duration": 200,
                           "show_particles": false,
                           "show_icon": true,
                           "ambient": false

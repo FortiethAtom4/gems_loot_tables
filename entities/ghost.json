@@ -103,6 +103,11 @@
                   "text": "Absorption +4 for 30 seconds"
                 },
                 {
+                  "color": "red",
+                  "italic": false,
+                  "text": "Stackable"
+                },
+                {
                   "color": "dark_gray",
                   "italic": false,
                   "text": "very smooth"
