@@ -80,7 +80,13 @@
               "mode": "append"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 1,
+      "entries": [
         {
           "type": "item",
           "weight": 1,
@@ -104,7 +110,13 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "bonus_rolls": 1,
+      "entries": [
         {
           "type": "item",
           "weight": 1,
